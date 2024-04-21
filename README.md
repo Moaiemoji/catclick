@@ -3,6 +3,8 @@ A competitive clicking website for pros.
 
 [Play](CatClick.html)
 
+[Changelog](Changelog.md)
+
 ## Info
 CatClick is a competitive clicking website with two modes: a battle royale mode (called MOBA) where you gain points by clicking and lose points from other people clicking,
 and a clicking mode called CPS Test where you can test your click speed per second.
