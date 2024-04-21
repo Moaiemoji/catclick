@@ -3,7 +3,7 @@ A competitive clicking website for pros.
 
 [Play](CatClick.html)
 
-[Changelog](Changelog.md)
+[Changelog](Changelog)
 
 ## Info
 CatClick is a competitive clicking website with two modes: a battle royale mode (called MOBA) where you gain points by clicking and lose points from other people clicking,
