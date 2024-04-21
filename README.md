@@ -66,3 +66,12 @@ Drag clicking may be allowed, as long as you submit a video of your top run.
 When recording your clicks, make sure to record a video with an audio track of *isolated clicks*. Clicks must be on their own seperate audio track. The video must also include the website CatClick, showing the website open to that URL. Raw footage from livestreams are allowed. Make sure you turn off the clicksounds on the website, these do not count for the requirement.
 
 We may grant exceptions to these rules if we see fit. Do not ask for an exception.
+
+## Punishments
+Some punishments for breaking any of these rules include, but are not limited to:
+
+* Deletion of stats for user
+* Banning from leaderboards for user
+* Bans from MOBA for user
+* Complete bans for user
+* Deletion of leaderboard run for user
