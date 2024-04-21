@@ -52,6 +52,17 @@ If you must break any of these rules in this list, we politely request of you to
 * Do not submit any scores to the leaderboard that break any of these rules
 * Do not log into GameJolt so that your scores are saved online.
 ### Rules on Clicking
-You may click using any method that satisfies these two requirements:
-* It uses any limb of your body, where you must move to click.
-* 
+You may click using any method that sends one left click input every time you press down on the mouse.
+
+Some automatically valid methods are:
+
+* Normal clicks
+* Jitter clicking
+* Butterfly clicking
+
+Drag clicking may be allowed, as long as you submit a video of your top run.
+
+### Recording your Gameplay
+When recording your clicks, make sure to record a video with an audio track of *isolated clicks*. Clicks must be on their own seperate audio track. The video must also include the website CatClick, showing the website open to that URL. Raw footage from livestreams are allowed. Make sure you turn off the clicksounds on the website, these do not count for the requirement.
+
+We may grant exceptions to these rules if we see fit. Do not ask for an exception.
