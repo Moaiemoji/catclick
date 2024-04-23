@@ -1,6 +1,6 @@
 # catclick
 A competitive clicking website for pros.
-
+<script type="text/javascript" src="//counter.websiteout.com/js/2/0/0/1"></script>
 [Play](CatClick.html)
 
 [Changelog](Changelog)
